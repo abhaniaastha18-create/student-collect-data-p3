@@ -64,3 +64,10 @@ If you are learning Python collection manipulation, you can create:
 *Sales Data Analysis System
 *Inventory & Stock Analytics
 *Customer Management/CRM System
+
+
+
+
+
+
+
