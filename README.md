@@ -29,3 +29,17 @@ Python provides several built-in collection types:
 -sort() → sorts the list
 -reverse() → reverses the list
 -clear() → removes all elements
+
+-add() → add an element
+-remove() → remove an element
+-union() → combines two sets
+-intersection() → common elements
+-difference() → elements present in one set but not another
+
+-keys() → returns keys
+-values() → returns values
+-items() → returns key-value pairs
+-get() → gets a value
+-update() → updates dictionary
+-pop() → removes an item
+-clear() → removes all items
