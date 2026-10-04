@@ -1,8 +1,8 @@
+video link==https://drive.google.com/file/d/1EYyPkx6Zl0Oq_RW69JvDe3mNHV4NKTQ2/view?usp=drive_link
+
 print("=" * 40)
 print("       collection manipulater")
 print("=" * 40)
-
-
 
 
 student_records = []
